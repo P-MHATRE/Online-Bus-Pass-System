@@ -1,6 +1,3 @@
-Here’s a clean, professional **README.md** file you can use for your GitHub project **[Online‑Bus‑Pass‑System on GitHub](https://github.com/P-MHATRE/Online-Bus-Pass-System)**. I’ve structured it to explain the purpose, features, setup steps, and usage assuming it’s a typical PHP/MySQL-based Bus Pass system (based on common functionality seen in similar projects) — you can customize it further if needed:
-
----
 
 ```markdown
 # Online Bus Pass System
@@ -27,17 +24,7 @@ Here’s a clean, professional **README.md** file you can use for your GitHub pr
 
 ```
 
-Online-Bus-Pass-System/
-│
-├── about.php                 # About page
-├── contact.php               # Contact page
-├── download-pass.php         # Download pass
-├── index.php                 # Main / Home page
-├── view-pass-detail.php      # View pass details
-├── README.md                # Project documentation
-├── assets/                   # CSS, JS, Images (if included)
-├── database/                 # Database scripts (optional)
-└── ...
+
 
 ````
 
